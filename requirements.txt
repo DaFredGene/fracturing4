@@ -2,3 +2,6 @@ streamlit
 pandas
 numpy
 matplotlib
+obspy
+math
+pyvista
